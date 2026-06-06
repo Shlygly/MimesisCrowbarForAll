@@ -1,0 +1,10 @@
+{
+    "name": "CrowbarForAll",
+    "description": "Why only have access to the crowbar during deathmatch ? Well, now you can buy it in the shop !",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/Shlygly/MimesisCrowbarForAll",
+    "dependencies": [
+        "LavaGang-MelonLoader-0.7.2",
+        "Shlygly-ItemsAPI-0.2.0"
+    ]
+}
