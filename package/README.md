@@ -5,4 +5,5 @@
 
 Why only have access to the crowbar during deathmatch ? Well, now you can buy it in the shop !
 
-![Screenshot 1](https://github.com/Shlygly/MimesisCrowbarForAll/main/resources/screenshot-01.jpg)
+![Screenshot 1](https://raw.githubusercontent.com/Shlygly/MimesisCrowbarForAll/main/resources/screenshot-01.jpg)
+ 
